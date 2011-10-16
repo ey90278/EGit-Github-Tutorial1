@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : EGit.cpp
-// Author      : 
+// Author      :
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
@@ -11,5 +11,6 @@ using namespace std;
 
 int main() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+	cout << "!!!Hello World again!!!" << endl;
 	return 0;
 }
